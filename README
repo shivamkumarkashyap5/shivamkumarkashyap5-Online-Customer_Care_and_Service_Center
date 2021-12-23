@@ -1,0 +1,4 @@
+The Customer Care Application will employ 3 types of users. a normal User, an Analyst, and an Admin. 
+Once the User after registration login to the web app, He/she can submit a complaint.
+Once submitted the admin can forward the complaint and assign it to any of the existing Analysts’.
+The Analyst can view the issue and do the necessary action and mark it as resolved, If the issue requires more attention, the analyst can forward it to the next level analyst.
